@@ -1,0 +1,279 @@
+:root {
+    --accent-color: #ffffff;
+    --div-grey: rgb(0 0 0 / 0%);
+    --div-black: rgb(59 58 58 / 0%);
+}
+
+/* fonts */
+@font-face {
+    font-family: gamefont;
+    src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2);
+}
+
+/* menu css */
+/* bottom */
+.button {
+    background-color: transparent !important;
+}
+
+#subLogoButtons {
+    bottom: 90px;
+}
+
+.button,
+.button:hover {
+    border: hidden ! important;
+}
+
+/* top left top right */
+#mLevelCont,
+.headerBarLeft,
+.headerBarRight {
+    background-color: transparent;
+}
+
+#menuAccountUsername {
+    margin-left: 10px;
+    margin-top: 9px;
+}
+
+.progressBar {
+    background-color: rgba(0, 0, 0, 0.15);
+}
+
+.progressBarInner {
+    background-image: linear-gradient(to right, white, lightgrey);
+    transition: width 1s ease-in-out;
+    border-radius: 0px
+}
+
+/* left */
+.material-icons-outlined,
+span.material-symbols-outlined.menBtnIcn {
+    color: #fff !important
+}
+
+#menuItemContainer {
+    background: transparent
+}
+
+.menuItem .menuItemTitle {
+    font-size: 18px !important;
+}
+
+/* hud class popup */
+#menuClassContainer {
+    top: unset;
+}
+
+#menuClassContainer:hover #classPreviewCanvas {
+    transform: unset !important;
+}
+
+#classPreviewCanvas {
+    transform: translateY(5000000px);
+    margin-bottom: -135px;
+    margin-right: -113px;
+}
+
+.bigShadowT {
+    text-shadow: none !important
+}
+
+/* remove click to play animation */
+#instructions {
+    animation: none
+}
+
+/* removal */
+#bottomLeftClassImg,
+#bottomLeftHealth,
+#bottomLeftTeamHolder,
+#voiceIcon,
+#recTimer,
+#bottomLeftChallIcon,
+.weapKey,
+.weapStreakHolder,
+#ammoMax,
+#reloadMsg,
+#ammoIcon,
+#weapHolder,
+#matchInfo,
+#miniMapOverlay,
+.youNewDiv,
+#updateAdIcon,
+#helpTxtHol,
+#helpTxtHol:hover,
+#newsHolder,
+#timerIcon,
+#aHolder,
+.endAHolder,
+#streamContainer,
+#topRightAdHolder,
+#merchImg,
+#ot-sdk-btn-floating.ot-floating-button,
+#seasonLabel,
+#termsInfo,
+#streamContainer,
+#mapInfoHld,
+#mainLogo,
+#curGameInfo,
+#mainLogoFace,
+#termsInfo,
+#aMerger,
+#rankedSoonTm,
+#newsHolder,
+#youNewDiv,
+#onetrust-consent-sdk,
+.weapKey,
+#aHolder,
+.imageButton,
+#editorBtnM,
+.headerBarRight .verticalSeparator,
+.verticalSeparatorInline,
+#seasonLabel,
+.krSocial,
+#mailCount,
+#voiceDisplay,
+#bubbleContainer,
+.endAHolder,
+#igXPBar,
+.button.small.buttonO img,
+#tlInfHold,
+#loadEditrBtn,
+.settingsBtn[onclick="openOneTrust()"],
+.menuSocialB,
+#menuLevelIcon,
+#menuMiniProfilePic,
+.menuClassPlayerVirus,
+#menuClassSubtext,
+#menuClassName,
+#menuClassIcn,
+#customizeButton .material-icons,
+#policeButton,
+.krSocial,
+.imageButton,
+#editorBtnM {
+    display: none !important;
+}
+
+/* health bar */
+#bottomLeftHealthBar {
+    width: 200px;
+    position: fixed;
+    left: calc(50% - 110px);
+    bottom: 25px;
+}
+
+.nHealthBarSeg {
+    display: flex;
+    height: 21px;
+    width: -webkit-fill-available;
+    margin: 0 -3.88px;
+    background: transparent
+}
+
+.nHpBSeg {
+    border-radius: 1;
+}
+
+/* ammo - THANKS JITCHU */
+#ammoHolder {
+    transform: unset;
+}
+
+#ammoVal {
+    font-size: 40px;
+    display: inline-block;
+    position: fixed;
+    left: calc(50% + 110px);
+    bottom: 22px;
+}
+
+/* timer */
+#timerHolder {
+    position: fixed;
+    top: 1%;
+    left: 1%;
+}
+
+#timerVal {
+    font-size: 30px;
+    padding-left: 0;
+    text-shadow: 2px 2px 3px rgba(30, 30, 30, .5);
+}
+
+/* counters */
+#killsVal,
+#deathsVal,
+#streakVal,
+#myScoreVal,
+#kdVal {
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px 3px rgba(30, 30, 30, .5);
+}
+
+#killsIcon,
+#deathsIcon,
+#streakIcon,
+#kdIcon {
+    width: 30px;
+    height: 30px;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: antialiased;
+}
+
+/* fps and ping */
+#fpsDisplay,
+#fpsDisplay>span {
+    padding-left: 3px;
+    padding-top: 50px
+}
+
+
+#ingameFPS,
+#menuFPSDisplay,
+#menuPingText,
+#menuPingDisplay .material-icons,
+#pingDisplay,
+#fpsDisplay,
+#ingressDisplay,
+#egressDisplay,
+#tickDisplay,
+#pingText,
+#ingressPacketCount,
+#ingressDataSize,
+#egressPacketCount,
+#egressDataSize,
+#tickPacketCount {
+    color: rgb(255, 255, 255) !important;
+    text-shadow: 2px 2px 3px rgba(30, 30, 30, .5);
+}
+
+/* chat */
+#chatInput {
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0px solid rgba(0, 0, 0, 0);
+    border-radius: 0px
+}
+
+#chatSwitch {
+    margin-bottom: -3px;
+}
+
+#chatList {
+    background-color: rgba(0, 0, 0, .1);
+}
+
+.chatItem {
+    font-size: 18px;
+    padding-right: 5px;
+    max-width: 265px;
+}
+
+.chatItem span[style="color:#fc03ec"] {
+    color: hotpink !important;
+}

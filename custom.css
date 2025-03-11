@@ -66,7 +66,7 @@ span.material-symbols-outlined.menBtnIcn {
     top: unset;
 }
 
-#menuClassContainer:hover #classPreviewCanvas {
+/* #menuClassContainer:hover #classPreviewCanvas {
     transform: unset !important;
 }
 
@@ -74,7 +74,7 @@ span.material-symbols-outlined.menBtnIcn {
     transform: translateY(5000000px);
     margin-bottom: -135px;
     margin-right: -113px;
-}
+} */
 
 .bigShadowT {
     text-shadow: none !important
@@ -276,4 +276,13 @@ span.material-symbols-outlined.menBtnIcn {
 
 .chatItem span[style="color:#fc03ec"] {
     color: hotpink !important;
+}
+
+#pollfishIndicator {
+    display: none !important;
+}
+
+#genericPop,
+#bundlePop {
+    display: none !important;
 }

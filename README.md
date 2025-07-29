@@ -6,6 +6,8 @@
 <h3>A sleek, dark-themed custom Krunker.io file set with custom CSS, overlays, and crosshair</h3>
 </p>
 
+<br>
+
 ## 🌌 Features
 
 - Clean, simple, white style

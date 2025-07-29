@@ -8,12 +8,6 @@
 
 <br>
 
-## 🌌 Features
-
-- Clean, simple, white style
-- Custom PNG damage & game overlays
-- Stylish in-game UI tweaks
-
 ## 🚀 Installation
 
 1. **Custom CSS**

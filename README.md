@@ -2,9 +2,9 @@
   <img src="https://github.com/my-daarlin/nyxpack/blob/main/assets/nyxpack.png?raw=true" alt="Nyxpack Banner" width="80%">
 </p>
 
-<p align="center">
-<h3>A sleek, dark-themed custom Krunker.io file set with custom CSS, overlays, and crosshair</h3>
-</p>
+<h3 align="center">
+  A sleek, dark-themed custom Krunker.io file set with custom CSS, overlays, and crosshair
+</h3>
 
 <br>
 

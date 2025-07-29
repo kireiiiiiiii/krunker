@@ -36,7 +36,17 @@
 
 ## 🖼️ Preview
 
-> _TODO_
+<p align="center">
+  <img src="/assets/screenshots/game.png" alt="Game Screenshot" width="90%">
+</p>
+
+<p align="center">
+  <img src="/assets/screenshots/menu.png" alt="Menu Screenshot" width="90%">
+</p>
+
+<p align="center">
+  <img src="/assets/screenshots/enemy.png" alt="Enemy Screenshot" width="90%">
+</p>
 
 ## 🧪 Contributing
 

@@ -48,6 +48,8 @@
   <img src="/assets/screenshots/enemy.png" alt="Enemy Screenshot" width="90%">
 </p>
 
+<br>
+
 ## 🧪 Contributing
 
 Feel free to fork this and make your own version of NyxPack. If you’ve got cool improvements or extra styles, make a pull request!

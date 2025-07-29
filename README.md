@@ -18,7 +18,7 @@
 
 1. **Custom CSS**
 
-   - Install the [Stylus]() Chrome extension, using this we can override the Krunker css file
+   - Install the [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) Chrome extension, using this we can override the Krunker css file
    - Also download the **[stylus.json](./stylus.json)** file
    - Go to a new Chrome tab, than to the top right corner, there should be a puzzle piece icon, that is where you can manage extensions
    - Click on the Stylus extension, and when a little window pops up, click on **Manage**

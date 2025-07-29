@@ -27,12 +27,11 @@
 
 2. **Settings (& overlays)**
 
+   - Go to the **[settings.txt](./settings.txt)** file, and copy it to your clipboard
    - Open **[Krunker](krunker.io)**
    - Click the **gear icon** in the bottom right to open settings
-   - On the top right, there should be a slider with **Basic** written in it. Toggle it, so it says **Advanced**
-   - Go to the **[settings.txt](./settings.txt)** file, and copy it to your clipboard
    - On the top of settings in Krunker there should be an import button. Click it and paste the text from the file here
-   - Click the import button
+   - Click **Import**
    - You imported the settings! The overlays should work too 🥳
 
 ## 🖼️ Preview

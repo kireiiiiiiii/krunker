@@ -33,7 +33,7 @@
    - Go to the [settings.txt](./settings.txt) file, and copy it to your clipboard
    - On the top of settings in Krunker there should be an import button. Click it and paste the text from the file here
    - Click the import button
-   - You imported the settings! 🥳
+   - You imported the settings! The overlays should work too 🥳
 
 ## 🖼️ Preview
 

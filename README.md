@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  A sleek, dark-themed custom Krunker.io file set with custom CSS, overlays, and crosshair
+  A white minimalistic custom Krunker.io asset set with custom CSS, overlays, and crosshair
 </h3>
 
 <br>
